@@ -1,0 +1,72 @@
+{
+  "name": "Luan Almeida",
+  "photo": "https://avatars.githubusercontent.com/u/106840952",
+  "job": "Developer Student",
+  "location": "Bauru - SP",
+  "phone": "14996808111",
+  "email": "luanfelipe.lfpa@gmail.com",
+  "insta": "_luanalmeida18",
+  "linkedin": "luan-almeida-943010142",
+  "gitHub": "luanalmeida18",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "BootStrap",
+        "logo": "https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png"
+      }
+    ],
+    "softSkills": [
+      "Simpátia",
+      "Atitude positiva",
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Página Spotify",
+      "url": "https://spotify-luanalmeida18.netlify.app",
+      "github": true
+    },
+    {
+      "name": "Finans",
+      "url": "https://finans-luanalmeida18.netlify.app",
+      "github": true
+    },
+    {
+      "name": "Buzz Feed - Angular",
+      "url": "https://projetobuzzfeed-luanalmeida18.netlify.app",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Assistente de Garantia de Qualidade - JBS / SA",
+      "period": "2018 - até o momento",
+      "description": "Fazer monitoramentos no processo de produção alimentar, a fim de garantir a qualidade do produto final."
+    }
+  ]
+}
