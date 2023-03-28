@@ -43,7 +43,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)"
+    "Inglês (Básico)"
   ],
   "portfolio": [
     {
@@ -60,7 +60,18 @@
       "name": "Buzz Feed - Angular",
       "url": "https://projetobuzzfeed-luanalmeida18.netlify.app",
       "github": true
+    },
+    {
+      "name": "Currículo Online",
+      "url": "https://luanalmeida18.github.io/curriculoDIO/",
+      "github": true
+    },
+    {
+      "name": "Login e Calculadora Online",
+      "url": "https://loginappcalc-luanalmeida18.netlify.app",
+      "github": true
     }
+
   ],
   "professionalExperience": [
     {
